@@ -1,0 +1,27 @@
+
+
+.trabajamos {
+    margin: 1px;
+    padding: 20px;
+    font-size: large;
+  }
+  
+  .card-vision {
+    position: absolute;
+    top: 20%;
+  }
+  
+  .card-mision {
+    position: absolute;
+    top: 60%;
+  }
+  
+  @media only screen and (max-width: 750px) {
+    .card-title, .card-text {
+      color: aliceblue;
+    }
+  }
+  .slogan-h1 {
+    margin: 5%;
+  }
+  
